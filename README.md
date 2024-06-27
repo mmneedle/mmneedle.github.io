@@ -1,7 +1,5 @@
 # Multimodal Needle in a Haystack (MMNeedle)
 
-This repo contains the code and data for our benchmark paper:
-
 **Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal LLMs**<br>
 H. Wang, H. Shi, S. Tan, W. Qin, W. Wang, T. Zhang, A. Nambi, T. Ganu, H. Wang<br>
 [[Paper](https://arxiv.org/pdf/2406.11230)] [[MMNeedle Dataset](https://drive.google.com/drive/folders/1D2XHmj466e7WA4aY7zLkbdTmp3it2ZPy?usp=sharing)]
