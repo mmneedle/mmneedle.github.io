@@ -9,7 +9,7 @@ To use this benchmark, please download the MMNeedle dataset at this [link](https
 ## News
 (2025-03-07) MMNeedle is selected for an **Oral Presentation** at NAACL!
 
-(2025-02-08) Multimodal Needle in a Haystack (MMNeedle) was accepted at NAACL 2025 Main! Additional models coming soon.
+(2025-02-08) Multimodal Needle in a Haystack (MMNeedle) was accepted at **NAACL 2025** Main! Additional models coming soon.
 
 (2024-06-24) We released the *leaderboard* for Multimodal Long Context Understanding on [Paper with Code](https://paperswithcode.com/sota/long-context-understanding-on-mmneedle)!
 
